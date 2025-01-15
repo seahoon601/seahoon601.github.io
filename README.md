@@ -1,3 +1,3 @@
-# sehoonshim.github.io
+# seahoon601.github.io
 
-personal website
+This is my a personal website.
